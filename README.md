@@ -15,7 +15,7 @@ Sistema que centraliza:
 3. Facilitar decisiones con reportes exportables;
 4. Ajustar el flujo según modo de operación (Pequeño Negocio / PyME).
 
-## Alcance (Módulos)
+## Módulos
 
 # Compras
 1. Productos: alta/baja/modificación, consultas, alertas por stock bajo y reportes;
